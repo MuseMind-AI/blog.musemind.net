@@ -33,6 +33,9 @@ github_username:  jekyll
 theme: jekyll-theme-quartz
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: vfvong/jekyll-theme-quartz
 
 # Exclude from processing.
 # The following items will not be processed, by default.
